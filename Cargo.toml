@@ -1,0 +1,7 @@
+[package]
+name = "hammerscale"
+version = "0.1.0"
+authors = ["clarkema"]
+edition = "2018"
+
+[dependencies]
